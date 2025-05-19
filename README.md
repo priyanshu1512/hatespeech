@@ -102,7 +102,7 @@ A production-grade, full-stack AI application that detects toxic and hateful com
 - ⚡ Scales instantly via AWS serverless
 - 💸 Cost-effective: pay-per-use model
 - 🔐 Secure via IAM roles and policies
-- 🎯 Accuracy: ~92%
+- 🎯 Accuracy: ~72%( can be increased using BERT ) 
 
 ![Evaluation](https://github.com/user-attachments/assets/170254a1-da8a-4c1f-9cd3-2f7808e75d1d)
 
