@@ -1,5 +1,7 @@
 # ⚡ Real-Time Hate Speech Detection System using BERT & AWS Serverless Stack
 Visit at : https://priyanshu1512.github.io/hatespeech/
+
+
 A production-grade, full-stack AI application that detects toxic and hateful comments in **real time**. This system uses a **BERT-based model** trained on the **Jigsaw Toxic Comment Classification** dataset and leverages **AWS Serverless Services** (SageMaker, Lambda, API Gateway, and S3) to deliver scalable, cost-efficient predictions without managing infrastructure.
 
 ---
